@@ -1,2 +1,2 @@
 # Instagram
-## Recriado a tela de login do Instagram
+## Recriada a tela de login do Instagram
